@@ -1,5 +1,3 @@
-# Malcoln Lucas Minson Rafael
-
 import math, time
 import pygame as pg
 from pygame.locals import *
